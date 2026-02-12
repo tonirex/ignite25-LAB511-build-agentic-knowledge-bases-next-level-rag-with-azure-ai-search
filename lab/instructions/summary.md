@@ -2,6 +2,8 @@
 
 You've completed the lab on building agentic knowledge bases with Azure AI Search. Through 8 progressive notebooks, you explored how retrieval becomes intelligent when guided by a large language model that can plan searches, select sources, and generate grounded responses.
 
+> 📖 **Want more details?** Check out the [**Comprehensive Lab Explanation**](../../LAB-EXPLANATION.md) for an in-depth overview of what each notebook covers, the Azure AI Search features used, and the technologies involved.
+
 ## What You Explored
 
 In this lab, you worked with different knowledge base configurations and learned how agentic retrieval differs from traditional search. You connected to multiple data sources, experimented with retrieval strategies, and saw how answer synthesis generates citation-backed responses. You also explored how reasoning effort levels affect performance and accuracy.

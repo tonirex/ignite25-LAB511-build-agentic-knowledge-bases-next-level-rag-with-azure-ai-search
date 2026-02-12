@@ -27,6 +27,8 @@ In this hands-on lab, you'll build a knowledge base using agentic retrieval in A
 
 Through 8 progressive exercises, you'll explore multiple retrieval patterns across different data sources (search indexes, SharePoint, web, blob storage), experiment with answer synthesis strategies, and optimize performance by adjusting reasoning effort levels.
 
+> 📖 **New to this lab?** See the [**Comprehensive Lab Explanation**](../../LAB-EXPLANATION.md) for detailed information about what each notebook teaches, the Azure AI Search features covered, and the technologies used.
+
 ## Getting Started
 
 Follow the steps below to set up your environment and begin the lab.
