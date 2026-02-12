@@ -13,6 +13,8 @@
 
 In this hands-on lab, you’ll build a Knowledge Base using agentic RAG, the next evolution of retrieval in Azure AI Search. Connect your agentic retrieval engine to your data through smart source selection across multiple indexes and storage systems. Learn how to enhance planning using natural language guidance and generate grounded responses with citations or extractive answers tailored to your use case. By the end, you’ll have a fully functional Agentic Knowledge Base responds over enterprise data.
 
+
+> 📖 **New to this lab?** Check out our [**Comprehensive Lab Explanation**](./LAB-EXPLANATION.md) to understand what the labs cover, the Azure AI Search features demonstrated, and the technologies used.
 ### 🧠 Learning Outcomes
 
 By the end of this session, learners will be able to:
